@@ -2,6 +2,8 @@
 
 Built with Astro.
 
+-   Icons: https://phosphoricons.com/
+
 ## 🧞 Commands
 
 | Command                   | Action                                           |
