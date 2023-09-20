@@ -1,0 +1,22 @@
+[
+	{
+		"label": "LinkedIn",
+		"href": "https://www.linkedin.com/in/marcocipriani94/",
+		"icon": "linkedin-logo"
+	},
+	{
+		"label": "GitHub",
+		"href": "https://github.com/marcocipriani",
+		"icon": "github-logo"
+	},
+	{
+		"label": "Twitter",
+		"href": "https://twitter.com/marcocipriani",
+		"icon": "twitter-logo"
+	},
+	{
+		"label": "LeetCode",
+		"href": "https://leetcode.com/marcocipriani/",
+		"icon": "code"
+	}
+]
